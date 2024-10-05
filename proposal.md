@@ -8,6 +8,7 @@ Subject area of choice: Using mainly data about (a) county level of the
     taking into consideration the huge reduction at the national level of the
     debt-to-income ratio between 2007 (1.24) to 2017 (0.95), I want
     to analyze and show visually the following points: 
+    
         (i) how was this change of deb-to-income ratios by state and county 
             level (in part to highlight which states and counties had the biggest 
             changes between 2007 and 2017), 
