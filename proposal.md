@@ -11,17 +11,16 @@ Subject area of choice: Using mainly data about (a) county level of the
 
         (i) How was this change of deb-to-income ratios by state and county 
             level (in part to highlight which states and counties had the biggest 
-            changes between 2007 and 2017), 
+            changes between 2007 and 2017).
         (ii) See relationships between average income and debt-to-income ratios
             among counties (for example, see if poorer or richer counties were the ones 
-            that have the biggest impacts of the reduction of the debt household), 
-            and 
+            that have the biggest impacts of the reduction of the debt household).
         (iii) See if there are any correlational impact between changes in
             reductions of debt-to-income ratios and other outputs at a county or
             state level, such as unemployment rates, net migration, educational
             outcomes, or crime rates, among others (this third point is still 
             under review and will be assesed depending the results on the first
-            two points)
+            two points).
 
 Likely data sources: Here I show the databases that I know that I will probably use,
     it is worth noting that for my third point (how reductions of debt-to-income 
