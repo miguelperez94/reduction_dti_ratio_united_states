@@ -1,0 +1,12 @@
+Databases and their URL's:
+
+- household-debt-by-county: https://www.federalreserve.gov/releases/z1/dataviz/household_debt/county/map/#state:all;year:2024
+
+- household-debt-by-state: https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2024
+
+- household-debt-us-aggregate: https://www.federalreserve.gov/econres/notes/feds-notes/household-debt-to-income-ratios-in-the-enhanced-financial-accounts-accessible-20180111.htm#figure1a
+
+- fips code for state: https://gist.github.com/dantonnoriega/bf1acd2290e15b91e6710b6fd3be0a53#file-us-state-ansi-fips-csv
+
+- county_complete (multiple data at county level): https://www.openintro.org/data/?data=county_complete
+
