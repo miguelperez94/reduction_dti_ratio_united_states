@@ -1,6 +1,6 @@
 # Analyzing the reduction of the debt-to-income ratio in the United States between 2007 and 2015 at the state and county level
 
-![Alt text](/scratch/embedded_screenshot_static_project.png?raw=true "Optional Title")
+!(/scratch/embedded_screenshot_static_project.png?raw=true)
 
 Author: Miguel Pérez
 
@@ -24,7 +24,7 @@ ratios at the state and county level provided by the Enhanced Financial Accounts
 (EFA). That data was obtained from https://www.federalreserve.gov/ and is used in all the
 data analysis trough the project.
 
-The secondary data sources for this project are:
+The secondary sources for this project are:
 
 * The aggregated household debt-to-income ratios at the national level, from the 
 Financial accounts of the United States. Data obtained from https://www.federalreserve.gov/
@@ -36,3 +36,6 @@ Labor Statistics, the Census Bureau, and USDA, among others. The data from this 
 in the process of generating data for the first graph ("Household debt-to-income ratio in the US"),
 for the data cleaning process, and for the analysis related to median household income,
 unemployment, and poverty.
+* I acknowledge inspiration in the format of part of the layout of this project from the document 
+"An examination of food insecurity in the United States, and the case for food rescue",
+by John Greer.
