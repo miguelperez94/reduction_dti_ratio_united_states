@@ -1,6 +1,6 @@
 # Analyzing the reduction of the debt-to-income ratio in the United States between 2007 and 2015 at the state and county level
 
-!(/scratch/embedded_screenshot_static_project.png?raw=true)
+![](/scratch/embedded_screenshot_static_project.png?raw=true "")
 
 Author: Miguel Pérez
 
