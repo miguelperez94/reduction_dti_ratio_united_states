@@ -9,4 +9,3 @@ Databases and their URL's:
 - fips code for state: https://gist.github.com/dantonnoriega/bf1acd2290e15b91e6710b6fd3be0a53#file-us-state-ansi-fips-csv
 
 - county_complete (multiple data at county level): https://www.openintro.org/data/?data=county_complete
-

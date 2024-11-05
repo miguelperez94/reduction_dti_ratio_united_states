@@ -22,7 +22,7 @@ and poverty.
 The main data source for this project comes from the data on household debt-to-income
 ratios at the state and county level provided by the Enhanced Financial Accounts project
 (EFA). That data was obtained from https://www.federalreserve.gov/ and is used in all the
-data analysis trough the project.
+data analysis through the project.
 
 The secondary sources for this project are:
 
@@ -30,7 +30,7 @@ The secondary sources for this project are:
 Financial accounts of the United States. Data obtained from https://www.federalreserve.gov/
 and used for the first graph ("Hosehold debt-to-income ratio in the US").
 * Data about population and socioeconomic characteristics such as income, unemployment, 
-and poverty by county was obtained from OpenIntro, particularty https://www.openintro.org/data/?data=county_complete.
+and poverty by county was obtained from OpenIntro, particularly https://www.openintro.org/data/?data=county_complete.
 This website has combined data from http://census.gov, the tidycensus R package, the Bureau of 
 Labor Statistics, the Census Bureau, and USDA, among others. The data from this website is used
 in the process of generating data for the first graph ("Household debt-to-income ratio in the US"),
