@@ -21,7 +21,7 @@ and poverty.
 
 The code (graphs.ipynb) and the image outputs of the code (svg files) are available at the [src](https://github.com/miguelperez94/reduction_dti_ratio_united_states/tree/main/src) folder.
 
-The data, both procesed and raw, are available at the [data](https://github.com/miguelperez94/reduction_dti_ratio_united_states/tree/main/data) folder.
+The data, both processed and raw, are available at the [data](https://github.com/miguelperez94/reduction_dti_ratio_united_states/tree/main/data) folder.
 
 The final analysis document is available at the [static_final](https://github.com/miguelperez94/reduction_dti_ratio_united_states/tree/main/static_final) folder.
 
